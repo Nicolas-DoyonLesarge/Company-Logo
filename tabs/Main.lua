@@ -3,7 +3,8 @@
 -- Created by: Nicolas Doyon Lesarge
 -- Created On: Oct -2016
 -- Created for: ICS2O
--- This program displays the company logo
+-- This program displays the company logo 
+-- one new line
 
 -- Use this function to perform your initial setup
 function setup()
